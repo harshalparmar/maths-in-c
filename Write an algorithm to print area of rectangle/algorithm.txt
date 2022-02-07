@@ -1,0 +1,5 @@
+Step 1: Start
+Step 2: Input length and breadth
+Step 3: area = length * breadth
+Step 4: print area
+Step 5: stop
