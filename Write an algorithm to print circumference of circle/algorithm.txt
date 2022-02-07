@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: input r
+Step 3: let pi = 3.14
+Step 4: area = pi * r * r
+Step 5: circum = 2 * pi * r
+Step 6: print area, circum
+Step 7: stop
