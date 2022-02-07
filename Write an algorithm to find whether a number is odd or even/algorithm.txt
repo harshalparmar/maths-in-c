@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Read a number to N.
+Step 3: Divide the number by 2 and store the remainder in R.
+Step 4: If R = O Then go to Step 6.
+Step 5: Print “N is odd” go to step 7.
+Step 6: Print “N is even”
+Step 7: Stop
