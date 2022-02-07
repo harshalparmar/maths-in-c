@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Input radius
+Step 3: let pi = 3.14
+Step 4: area = pi * radius * radius
+Step 6: print area
+Step 7: stop
